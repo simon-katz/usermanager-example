@@ -1,3 +1,4 @@
 .cpcache
 /.lsp
 /usermanager_db
+.nrepl-port
